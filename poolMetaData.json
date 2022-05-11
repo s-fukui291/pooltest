@@ -1,6 +1,6 @@
 {
-  "name": "MyPoolNameF1",
-  "description": "My pool description",
-  "ticker": "MPNF1",
-  "homepage": "https://myadapoolnamerocks.com"
+"name": "MyPoolName",
+"description": "My pool description",
+"ticker": "MPN",
+"homepage": "https://myadapoolnamerocks.com"
 }
